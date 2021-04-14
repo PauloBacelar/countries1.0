@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Countries of the World</h1>
+      <h1>Countries of the World 🌎</h1>
       <div className="countries">{countriesComponents}</div>
     </div>
   );
